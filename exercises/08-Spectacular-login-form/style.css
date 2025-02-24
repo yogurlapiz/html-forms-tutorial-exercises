@@ -1,0 +1,41 @@
+body {
+	background-color: rgb(5, 5, 91);
+	justify-content: center;
+	margin: 0;
+	padding: 10%;
+}
+
+.login {
+	background-color: rgb(5, 5, 91);
+	width: 400px;
+	height: 400px;
+	text-align: center;
+	align-items: center;
+	margin: auto;
+}
+form {
+	width: 100%;
+}
+h1 {
+	color: white;
+	margin-top: 10px;
+}
+input[type="text"] {
+	height: 40px;
+	width: 80%;
+	margin: 10px;
+	background-color: rgba(0, 0, 0, 0.4);
+}
+input[type="password"] {
+	height: 40px;
+	width: 80%;
+	background-color: rgba(0, 0, 0, 0.34);
+}
+button {
+	text-align: center;
+	height: 40px;
+	width: 82%;
+	background-color: rgb(47, 130, 212);
+	border-radius: 5px;
+	margin: 10px;
+}
